@@ -1,0 +1,3 @@
+- gaming
+- snowboarding
+- building computers
