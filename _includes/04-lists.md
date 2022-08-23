@@ -1,3 +1,3 @@
-gaming
-snowboarding
-building computers
+- gaming
+- snowboarding
+- building computers
